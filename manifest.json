@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "app": "ItsRildrei Skins",
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-06T00:00:00Z",
+    "notes": "Add/remove items under `skins` to publish new downloadable 4D skins."
+  },
+  "skins": [
+    {
+      "id": "skin-001-coolknight",
+      "name": "Cool Knight 4D",
+      "description": "Armor-style 4D skin with helmet and cloak.",
+      "thumb": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/thumbs/skin-001-thumb.png",
+      "url": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/skin-001-coolknight.png",
+      "filename": "skin-001-coolknight.png",
+      "tags": ["knight","armor","4d"],
+      "size_bytes": 123456
+    },
+    {
+      "id": "skin-002-starry",
+      "name": "Starry Night 4D",
+      "description": "Night-sky texture with animated-looking stars.",
+      "thumb": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/thumbs/skin-002-thumb.png",
+      "url": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/skin-002-starry.png",
+      "filename": "skin-002-starry.png",
+      "tags": ["space","sky","4d"],
+      "size_bytes": 98765
+    },
+    {
+      "id": "skin-003-cyber",
+      "name": "Cyber Neon 4D",
+      "description": "Futuristic neon lines and glowing accents.",
+      "thumb": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/thumbs/skin-003-thumb.png",
+      "url": "https://raw.githubusercontent.com/<username>/<repo>/main/skins/skin-003-cyber.png",
+      "filename": "skin-003-cyber.png",
+      "tags": ["neon","cyber","4d"],
+      "size_bytes": 146321
+    }
+  ]
+}
